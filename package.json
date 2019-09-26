@@ -1,7 +1,7 @@
 {
-  "name": "madame-bovary",
+  "name": "madame-bovary-french",
   "version": "0.0.8",
-  "description": "Superbook Madame Bovary by Gustave Flaubert",
+  "description": "Superbook Madame Bovary (French) by Gustave Flaubert",
   "keywords": [
     "superbook",
     "bookiza"
@@ -11,7 +11,7 @@
   "homepage": "https://bubblin.io/gustaveflaubert",
   "repository": {
     "type": "git",
-    "url": "https://github.com/marvindanig/madame-bovary"
+    "url": "https://github.com/marvindanig/madame-bovary-french"
   },
   "scripts": {
     "postinstall": "node ./crust/scripts/ready.js"

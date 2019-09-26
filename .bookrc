@@ -1,5 +1,5 @@
 {
-  "name": "Madame Bovary",
+  "name": "Madame Bovary (French)",
   "type": "novel",
   "has_page_numbers": true,
   "mode": {
@@ -16,7 +16,7 @@
     "synopsis": ""
   },
   "status": "published",
-  "asset_url": "https://raw.githubusercontent.com/marvindanig/madame-bovary/master/assets",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/madame-bovary-french/master/assets",
   "book_id": 1147,
-  "book_url": "https://bubblin.io/book/madame-bovary-by-gustave-flaubert-gustaveflaubert"
+  "book_url": "https://bubblin.io/book/madame-bovary-french-by-gustave-flaubert"
 }
